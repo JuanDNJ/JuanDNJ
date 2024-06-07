@@ -13,13 +13,17 @@
 <br />
 <p align="center">
 <p align="center">
+  
 - 👋 Hi, I’m @JuanDNJ
 - 👀 I’m interested in Jobs
 - 🌱 I’m currently learning Barcelona Activa , Front End, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+  
 </p>
+
 <p align="center">
+  
 <a href="https://github.com/juandnj">
   <img align="left" alt="JuanDNJ Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -31,10 +35,12 @@
 ![VisitorCount](https://profile-counter.glitch.me/juandnj/count.svg)
 
 ⭐️ From [JuanDNJ](https://github.com/juandnj)
-  </p>
-</p>
-<br />
 
+</p>
+
+</p>
+
+<br />
 
 <!---
 JuanDNJ/JuanDNJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
