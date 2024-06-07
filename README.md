@@ -1,6 +1,6 @@
 <p align="center">
   
-### Hola Mundo, soy Juan Valdivia 👋
+<h1>Hola Mundo, soy Juan Valdivia 👋</h1>
   
 <hr />
 
