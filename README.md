@@ -1,6 +1,6 @@
 # Juan Valdivia
 
-<img width="100%" height="420" src="./Banner.jpg">
+<img width="100%" style="border-radius: 16px;" height="420" src="./Banner.jpg">
 
 - 👋 Hi, I’m @JuanDNJ
 - 👀 I’m interested in Jobs
