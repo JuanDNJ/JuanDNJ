@@ -48,8 +48,6 @@
 
 
 - 📫 How to reach me ...
-- 
-<br />
 
 <a href="https://github.com/juandnj">
   <img align="left" alt="JuanDNJ Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
