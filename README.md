@@ -1,7 +1,10 @@
+# Juan Valdivia
+
 ![Banner](./Banner.jpg)
+
 - 👋 Hi, I’m @JuanDNJ
 - 👀 I’m interested in Jobs
-- 🌱 I’m currently learning Barcelona Activa , Front End, React 
+- 🌱 I’m currently learning Barcelona Activa , Front End, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
