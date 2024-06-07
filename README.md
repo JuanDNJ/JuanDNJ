@@ -47,8 +47,10 @@
 - 💞️ I’m looking to collaborate on [https://github.com/ZeliaES]
 
 
-<p align="center">
-📫 How to reach me ...
+- 📫 How to reach me ...
+- 
+<br />
+
 <a href="https://github.com/juandnj">
   <img align="left" alt="JuanDNJ Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -60,8 +62,6 @@
 ![VisitorCount](https://profile-counter.glitch.me/juandnj/count.svg)
 
 ⭐️ From [JuanDNJ](https://github.com/juandnj)
-
-</p>
 
 <br />
 
