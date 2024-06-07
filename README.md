@@ -2,6 +2,8 @@
 <h1 align="center">Hola Mundo, soy Juan Valdivia 👋</h1>
 </p>
 
+<br />
+
 <p align="center">
 <img width="75%" height="320" src="./Banner.jpg">
 </p>
