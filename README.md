@@ -1,6 +1,9 @@
-<h1 align="center">Juan Valdivia</h1>
+```html
 
+<h1 align="center">Juan Valdivia</h1>
 <img width="100%" height="420" src="./Banner.jpg">
+
+```
 
 - 👋 Hi, I’m @JuanDNJ
 - 👀 I’m interested in Jobs
