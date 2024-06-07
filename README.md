@@ -42,17 +42,12 @@
 
 <br />
 
-- 👀 I’m interested in Jobs
-- 🌱 I’m currently learning Barcelona Activa , Front End, React
-- 💞️ I’m looking to collaborate on [https://github.com/ZeliaES]
-
-
-- 📫 How to reach me ...
+📫 How to reach me ...
 
 <a href="https://github.com/juandnj">
   <img align="left" alt="JuanDNJ Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/the_strange_concoction/">
+<a href="https://www.instagram.com/juandevnj">
   <img align="left" alt="JuanDNJ Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
