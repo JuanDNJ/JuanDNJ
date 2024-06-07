@@ -41,16 +41,11 @@
 </div>
 
 <br />
-<p align="center">
-<p align="center">
-  
 - 👋 Hi, I’m @JuanDNJ
 - 👀 I’m interested in Jobs
 - 🌱 I’m currently learning Barcelona Activa , Front End, React
 - 💞️ I’m looking to collaborate on [https://github.com/ZeliaES]
 - 📫 How to reach me ...
-  
-</p>
 
 <p align="center">
   
@@ -65,8 +60,6 @@
 ![VisitorCount](https://profile-counter.glitch.me/juandnj/count.svg)
 
 ⭐️ From [JuanDNJ](https://github.com/juandnj)
-
-</p>
 
 </p>
 
