@@ -1,4 +1,4 @@
-# Juan Valdivia
+<h1 style="text-align: center; width: 100%; color:#F8DF20;">Juan Valdivia</h1>
 
 <img width="100%" height="420" src="./Banner.jpg">
 
