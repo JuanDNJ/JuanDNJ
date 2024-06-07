@@ -51,6 +51,8 @@
   <img align="left" alt="JuanDNJ Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br />
+
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/juandnj/count.svg)
 
