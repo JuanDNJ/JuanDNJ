@@ -47,7 +47,7 @@
 - 👋 Hi, I’m @JuanDNJ
 - 👀 I’m interested in Jobs
 - 🌱 I’m currently learning Barcelona Activa , Front End, React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on [https://github.com/ZeliaES]
 - 📫 How to reach me ...
   
 </p>
