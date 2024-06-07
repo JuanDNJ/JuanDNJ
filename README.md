@@ -2,12 +2,12 @@
 
 <img width="100%" height="420" src="./Banner.jpg">
 
-<p align="left">
+<p align="center">
 <img width="45%" height="420" src="https://github-readme-stats.vercel.app/api?username=juandnj&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
-  <hr />
+&nbsp;
 <img width="45%" height="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandnj&layout=compact&theme=radical" alt="My Github Stats">
 </p>
-
+<hr />
 - 👋 Hi, I’m @JuanDNJ
 - 👀 I’m interested in Jobs
 - 🌱 I’m currently learning Barcelona Activa , Front End, React
