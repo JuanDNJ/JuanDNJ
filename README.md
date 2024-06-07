@@ -1,4 +1,4 @@
-### Hello World, I'm Juan Valdivia :purple_heart:
+### Hola Mundo, soy Juan Valdivia
 
 <img width="100%" height="420" src="./Banner.jpg">
 
