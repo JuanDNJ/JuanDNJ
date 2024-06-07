@@ -3,8 +3,8 @@
 <img width="100%" height="420" src="./Banner.jpg">
 
 <p align="left">
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=juandnj&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandnj&layout=compact&theme=radical" alt="My Github Stats">
+<img width="33%"  src="https://github-readme-stats.vercel.app/api?username=juandnj&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandnj&layout=compact&theme=radical" alt="My Github Stats">
 </p>
 
 - 👋 Hi, I’m @JuanDNJ
