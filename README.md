@@ -12,16 +12,24 @@
 
 <br />
 
-![visitors](https://visitor-badge.juandnj.icu/badge?page_id=ApurvShh007.ApurvShah007)
+![visitors](https://visitor-badge.juandnj.icu/badge?page_id=JuanDNJ)
+
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandnj&layout=compact&theme=radical" alt="My Github Stats">
-<img  src="https://github-readme-stats.vercel.app/api?username=juandnj&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDNJ&layout=compact&theme=radical" alt="My Github Stats">
+<img  src="https://github-readme-stats.vercel.app/api?username=JuanDNJ&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
 
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/juandnj/count.svg)
+<a href="https://github.com/juandnj">
+  <img align="left" alt="JuanDNJ Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/the_strange_concoction/">
+  <img align="left" alt="JuanDNJ Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-⭐️ From [juandnj](https://github.com/juandnj)
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/JuanDNJ/count.svg)
+
+⭐️ From [JuanDNJ](https://github.com/JuanDNJ)
 <!---
 JuanDNJ/JuanDNJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
