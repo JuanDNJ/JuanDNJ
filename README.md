@@ -2,7 +2,7 @@
 
 ![Banner](./Banner.jpg)
 
-<img align="right" width="100" height="100" src="./Banner.jpg">
+<img align="center" width="100" height="100" src="./Banner.jpg">
 
 - 👋 Hi, I’m @JuanDNJ
 - 👀 I’m interested in Jobs
