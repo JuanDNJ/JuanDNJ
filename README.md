@@ -21,7 +21,7 @@
 <a href="https://github.com/juandnj" >
   <img align="left" alt="JuanDNJ Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/juandevnj" target="_blank">
+<a href="https://www.instagram.com/juandevnj" >
   <img align="left" alt="JuanDNJ Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
