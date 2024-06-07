@@ -8,6 +8,8 @@
 <img width="48%" height="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandnj&layout=compact&theme=radical" alt="My Github Stats">
 </p>
 <hr />
+
+<br />
 - 👋 Hi, I’m @JuanDNJ
 - 👀 I’m interested in Jobs
 - 🌱 I’m currently learning Barcelona Activa , Front End, React
