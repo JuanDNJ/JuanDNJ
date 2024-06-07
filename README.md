@@ -15,8 +15,8 @@
 ![visitors](https://visitor-badge.juandnj.icu/badge?page_id=JuanDNJ)
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDNJ&layout=compact&theme=radical" alt="My Github Stats">
-<img  src="https://github-readme-stats.vercel.app/api?username=JuanDNJ&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandnj&layout=compact&theme=radical" alt="My Github Stats">
+<img  src="https://github-readme-stats.vercel.app/api?username=juandnj&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
 
 <a href="https://github.com/juandnj">
@@ -27,9 +27,9 @@
 </a>
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/JuanDNJ/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/juandnj/count.svg)
 
-⭐️ From [JuanDNJ](https://github.com/JuanDNJ)
+⭐️ From [JuanDNJ](https://github.com/juandnj)
 <!---
 JuanDNJ/JuanDNJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
