@@ -41,14 +41,14 @@
 </div>
 
 <br />
-- 👋 Hi, I’m @JuanDNJ
+
 - 👀 I’m interested in Jobs
 - 🌱 I’m currently learning Barcelona Activa , Front End, React
 - 💞️ I’m looking to collaborate on [https://github.com/ZeliaES]
-- 📫 How to reach me ...
+
 
 <p align="center">
-  
+📫 How to reach me ...
 <a href="https://github.com/juandnj">
   <img align="left" alt="JuanDNJ Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
