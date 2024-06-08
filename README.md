@@ -9,7 +9,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandnj&show_icons=true&locale=es&theme=dark&width=435" alt="JuanDNJ" />
 
-
+<br/>
 
 <h3>Idiomas y Herramientas:</h3>
   <p>
