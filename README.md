@@ -3,11 +3,11 @@
 </p>
 <img width="100%" src="./Banner.jpg">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=juandnj&show_icons=true&locale=es&theme=dark" alt="JuanDNJ" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=juandnj&show_icons=true&locale=es&theme=dark" alt="JuanDNJ" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JuanDNJ&theme=dark&locale=es)](https://git.io/streak-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandnj&show_icons=true&locale=es&theme=dark&width=435" alt="JuanDNJ" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandnj&show_icons=true&locale=es&theme=dark&width=435" alt="JuanDNJ" />
 
 <hr />
 
