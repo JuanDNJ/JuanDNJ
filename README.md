@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7E024&random=false&width=435&lines=Hello+World%2C+I+am+Juan+Valdivia+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 <img width="100%" src="./Banner.jpg">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandnj&show_icons=true&locale=es&layout=compact" alt="JuanDNJ" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandnj&show_icons=true&locale=es&layout=compact&theme=dark" alt="JuanDNJ" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juandnj&show_icons=true&locale=es" alt="JuanDNJ" /></p>
 
