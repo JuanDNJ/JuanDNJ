@@ -2,9 +2,11 @@
 <h1 align="center">Hello World, I am Juan Valdivia 👋</h1>
 </p>
 <img width="100%" src="./Banner.jpg">
-<p align="left">
-<img width="100%" height="460" src="https://github-readme-stats.vercel.app/api?username=juandnj&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats"><img width="100%" height="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandnj&layout=compact&theme=radical" alt="My Github Stats">
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandnj&show_icons=true&locale=en&layout=compact" alt="juandnj" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juandnj&show_icons=true&locale=en" alt="juandnj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandnj&" alt="juandnj" /></p>
 <hr />
 
 📫 How to reach me ...
