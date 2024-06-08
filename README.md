@@ -7,13 +7,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JuanDNJ&theme=dark&locale=es)](https://git.io/streak-stats)
 
-<br/>
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandnj&show_icons=true&locale=es&theme=dark&width=435" alt="JuanDNJ" />
 
 <br/>
 
-<h3>Idiomas y Herramientas:</h3>
+<p><h3>Idiomas y Herramientas:</h3></p>
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
