@@ -50,7 +50,7 @@
 
 <br />
 
-#### Thanks for visiting :heart:
+#### Gracias por su visita :heart:
 ![VisitorCount](https://profile-counter.glitch.me/juandnj/count.svg)
 
 ⭐️ From [JuanDNJ](https://github.com/juandnj)
