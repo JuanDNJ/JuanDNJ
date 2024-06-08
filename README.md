@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7E0245&random=false&width=435&lines=Hello+World%2C+I+am+Juan+Valdivia+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</p>
+
 <img width="100%" src="./Banner.jpg">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=juandnj&show_icons=true&locale=es&theme=dark" alt="JuanDNJ" />
@@ -8,7 +8,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=JuanDNJ&theme=dark&locale=es)](https://git.io/streak-stats)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandnj&show_icons=true&locale=es&theme=dark&width=435" alt="JuanDNJ" />
-
+</p>
 <br/>
 
 <p><h3>Idiomas y Herramientas:</h3></p>
