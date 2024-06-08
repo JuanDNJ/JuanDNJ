@@ -10,7 +10,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandnj&show_icons=true&locale=es&theme=dark" alt="JuanDNJ" />
 
 <hr />
-
+<br />
 <h3 align="left">Languages and Tools:</h3>
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
