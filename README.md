@@ -9,8 +9,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandnj&show_icons=true&locale=es&theme=dark&width=435" alt="JuanDNJ" />
 </p>
-
-<br/>
 <hr/>
 
 <h3 width="100%">Idiomas y Herramientas:</h3>
