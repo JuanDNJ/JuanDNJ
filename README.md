@@ -4,7 +4,7 @@
 <img width="100%" src="./Banner.jpg">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandnj&show_icons=true&locale=es&layout=compact&theme=dark" alt="JuanDNJ" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juandnj&show_icons=true&locale=es&theme=dark" alt="JuanDNJ" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=juandnj&show_icons=true&locale=es&theme=dark" alt="JuanDNJ" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JuanDNJ&theme=dark&locale=es)](https://git.io/streak-stats)
 
