@@ -1,7 +1,7 @@
 <p align="center">
 <h1 align="center">Hello World, I am Juan Valdivia 👋</h1>
 </p>
-<p align="center">
+<p align="left">
 <img width="100%" src="./Banner.jpg">
 <img width="33%" height="460" src="https://github-readme-stats.vercel.app/api?username=juandnj&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">&nbsp;<img width="33%" height="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandnj&layout=compact&theme=radical" alt="My Github Stats">
 </p>
