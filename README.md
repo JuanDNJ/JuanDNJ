@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7E024&random=false&width=435&lines=Hello+World%2C+I+am+Juan+Valdivia+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7E0245&random=false&width=435&lines=Hello+World%2C+I+am+Juan+Valdivia+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 <img width="100%" src="./Banner.jpg">
 
