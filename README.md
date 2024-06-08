@@ -9,7 +9,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandnj&" alt="JuanDNJ" /></p>
 <hr />
 
-
 <h3 align="left">Languages and Tools:</h3>
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
@@ -37,6 +36,7 @@
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
+  
 📫 How to reach me <a href="mailto:juandevnjv@gmail.com" >juandevnjv@gmail.com</a>
 
 <a href="https://github.com/juandnj" >
