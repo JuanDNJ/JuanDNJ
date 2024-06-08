@@ -6,9 +6,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juandnj&show_icons=true&locale=es" alt="JuanDNJ" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandnj&" alt="JuanDNJ" /></p>
+<p>[![GitHub Streak](https://streak-stats.demolab.com?user=JuanDNJ&theme=dark&locale=es)](https://git.io/streak-stats)</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JuanDNJ&theme=dark&locale=es)](https://git.io/streak-stats)
+
 
 <hr />
 
