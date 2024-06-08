@@ -14,8 +14,6 @@
   <hr />
 </p>
 
-<br />
-
 📫 How to reach me ...
 
 <a href="https://github.com/juandnj" >
