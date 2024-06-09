@@ -25,7 +25,6 @@
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="Nest js" src="https://img.shields.io/badge/Nest-df234f.svg?logo=nestjs&logoColor=%f24e1e"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-20232a.svg?logo=tailwindcss&logoColor=%0b1120"></a>
 </p>
